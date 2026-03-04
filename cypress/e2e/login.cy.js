@@ -1,0 +1,18 @@
+// funcionalidade -> LOGIN
+
+describe("Login", () => {
+
+    // Cenario 1
+
+    it("Login com sucesso", () => {
+        cy.visit("https://automationpratice.com.br/login")
+        cy.wait(5000)
+        cy.get('#user').type('dudu@qazando.com')
+        cy.get('#password').type("123456")
+        cy.get('#btnLogin').click()
+
+        cy.get('#swal2-title').should('have.text', 'Login realizado')
+    })
+
+    
+})
