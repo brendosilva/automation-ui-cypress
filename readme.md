@@ -81,7 +81,11 @@ Esses desafios foram fundamentais para meu aprendizado.
 npm install
 npx cypress open
 
+```
+
 -------------------------------------------------------------------------
+
+
 
  ## 📚 Contexto de Aprendizado
 
