@@ -80,3 +80,11 @@ Esses desafios foram fundamentais para meu aprendizado.
 ``` bash
 npm install
 npx cypress open
+
+-------------------------------------------------------------------------
+
+ ## 📚 Contexto de Aprendizado
+
+Este projeto foi desenvolvido como parte dos meus estudos em automação de testes, com base nos ensinamentos do bootcamp da Qazando.
+
+Os cenários foram estruturados, organizados e implementados por mim como forma de consolidar o aprendizado e aplicar os conceitos na prática.
